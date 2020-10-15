@@ -16,7 +16,7 @@ about what I learned during the development of the project and what difficulties
 
 So
 
-##Step 1##
+## Step 1 ##
 
 Need to configure WebPack config. I want to use new technologies in this project such as Redux and Style Modules. First of all I need install dependencies via NPM. Okey, Let's do it :)
 
